@@ -20,6 +20,7 @@ header p {
 .card {
   border: 1px solid #E5E5E5;
   margin-bottom: 20px;
+  height: 375px;
 }
 
 .card-image {
